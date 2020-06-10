@@ -14,9 +14,8 @@ motor de plantilla
 
 
 
-## 使用 - 条件判断
+## if - else if - else
 
-在HTML标签上加上 hi-if、hi-else、hi-show、hi-hide 属性可以控制该标签是否渲染，不过这里更推荐用hi-show和hi-hide，如：
 ```html
 <div>
 	<!-- if -->
